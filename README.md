@@ -1,5 +1,5 @@
-# -
-本リポジトリは修士における研究活動をまとめたものである
+# Research Achievements
+This repository compiles research activities conducted during the master's program.
 
 # Enhancing Computational E!ciency in Video Action Recognition via Temporal Token Merging in ViViT
 
