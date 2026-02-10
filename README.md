@@ -1,7 +1,7 @@
 # Research Achievements
 This repository compiles research activities conducted during the master's program.
 
-# Enhancing Computational E!ciency in Video Action Recognition via Temporal Token Merging in ViViT
+# Enhancing Computational Efficiency in Video Action Recognition via Temporal Token Merging in ViViT
 
 This repository provides the official PyTorch implementation of  
 "Enhancing Computational Efficiency in Video Action Recognition via Temporal Token Merging in ViViT".
